@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fareedkamal
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full stack development
+- 💞️ I’m looking to collaborate on Web development & product design 
+- 📫 How to reach me: fkamalars@gmail.com
