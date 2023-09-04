@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @fareedkamal
-- 🌱 I’m currently learning Full stack development 
-- 📫 How to reach me: fkamalars@gmail.com
+- 👋 Hi, I’m @fareedkamal 
+- 📫 How to reach me: fareedkamal.dev@gmail.com
